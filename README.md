@@ -32,7 +32,7 @@ AI기반의 주식 데이터 분석 및 주가 예측 서비스를 제공
 
 ## Result
 
-![Result1](C:\Users\jysi\Desktop\SmartProject\Result1.gif)
+![Result1](https://user-images.githubusercontent.com/87744184/134637923-4c8a0454-4a46-4c12-9e27-129b6f3d9d7d.gif)
 
 ![Result2](C:\Users\jysi\Desktop\SmartProject\Result2.gif)
 
