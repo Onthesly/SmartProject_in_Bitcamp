@@ -2,7 +2,7 @@
 
 ## Goal
 
-![image-20210924154947117](C:\Users\jysi\AppData\Roaming\Typora\typora-user-images\image-20210924154947117.png)
+![image](https://user-images.githubusercontent.com/87744184/134638394-2268c83a-08c7-4408-8f18-d2be0b76b5fe.png)
 
 코로나 이후 주식투자열풍이 젊은 세대에까지 불어옴과 동시에 투자자들의 투자 지식은 낮은 상태
 
@@ -14,19 +14,19 @@ AI기반의 주식 데이터 분석 및 주가 예측 서비스를 제공
 
 #### 1. LSTM
 
-![image-20210924155501942](C:\Users\jysi\AppData\Roaming\Typora\typora-user-images\image-20210924155501942.png)
+![image](https://user-images.githubusercontent.com/87744184/134638412-5a8860eb-59dd-47c0-8944-452f23ee12dd.png)
 
 
 
 #### 2. Prophet
 
-![image-20210924155626216](C:\Users\jysi\AppData\Roaming\Typora\typora-user-images\image-20210924155626216.png)
+![image](https://user-images.githubusercontent.com/87744184/134638434-66074628-e23b-410b-8f50-714b11a756ff.png)
 
 
 
 #### 3. Sentiment Analysis(Word Embedding)
 
-![image-20210924155801376](C:\Users\jysi\AppData\Roaming\Typora\typora-user-images\image-20210924155801376.png)
+![image](https://user-images.githubusercontent.com/87744184/134638449-b9b38d64-2814-4749-8805-457841f599e2.png)
 
 
 
@@ -34,7 +34,7 @@ AI기반의 주식 데이터 분석 및 주가 예측 서비스를 제공
 
 ![Result1](https://user-images.githubusercontent.com/87744184/134637923-4c8a0454-4a46-4c12-9e27-129b6f3d9d7d.gif)
 
-![Result2](C:\Users\jysi\Desktop\SmartProject\Result2.gif)
+![Result2](https://user-images.githubusercontent.com/87744184/134638495-4a3ca0b5-988c-4f28-b978-38643acfb1d8.gif)
 
 
 
@@ -50,7 +50,7 @@ AI기반의 주식 데이터 분석 및 주가 예측 서비스를 제공
 
 ## Credits
 
-![](C:\Users\jysi\AppData\Roaming\Typora\typora-user-images\image-20210924153153039.png)
+![image](https://user-images.githubusercontent.com/87744184/134638522-66d4ae97-6a54-4476-99c4-58e08230da13.png)
 
 ##### 	팀명 : Finance Doctor
 
