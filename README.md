@@ -52,7 +52,7 @@ AI기반의 주식 데이터 분석 및 주가 예측 서비스를 제공
 
 ![image](https://user-images.githubusercontent.com/87744184/134638522-66d4ae97-6a54-4476-99c4-58e08230da13.png)
 
-##### 	팀명 : Finance Doctor
+#### 	팀명 : Finance Doctor
 
 - Onthesly(장연식) - https://github.com/Onthesly/
 
