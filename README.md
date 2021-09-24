@@ -55,7 +55,6 @@ AI기반의 주식 데이터 분석 및 주가 예측 서비스를 제공
 #### 	팀명 : Finance Doctor
 
 - Onthesly(장연식) - https://github.com/Onthesly/
-
 - blackneyo(이동한) - https://github.com/blackneyo/
 - snowcat91(장형욱) - https://github.com/snowcat91/
 - dovard(김도현) - https://github.com/dovard/
