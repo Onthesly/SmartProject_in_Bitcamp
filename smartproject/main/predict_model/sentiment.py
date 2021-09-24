@@ -20,8 +20,8 @@ class SentimentModel:
 
     def start_sentiment(self, company):
         headers = {
-            'X-Naver-Client-Id' : 'YNNJ2ljRiuY8lNZD90ze',
-            'X-Naver-Client-Secret' : 'gwwaqrnzgi'
+            'X-Naver-Client-Id' : '<Client-ID>',
+            'X-Naver-Client-Secret' : '<Client-Secret>'
         }
 
         query = company
